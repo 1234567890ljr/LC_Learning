@@ -1,6 +1,6 @@
 # LeetCode Solutions
-My LeetCode accepted code, mainly Python / C++
+My accepted LeetCode code.
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|1|Two Sum|[Python](./python/0001-two-sum.py)|Easy|
+All Python solutions are placed in the `python/` folder.
+
+## Folder Structure
